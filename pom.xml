@@ -20,6 +20,8 @@
 
     <dependencies>
 
+        <!-- 测试，再验证一下 -->
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-thymeleaf</artifactId>
